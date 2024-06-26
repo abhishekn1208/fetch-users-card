@@ -1,0 +1,15 @@
+#user-details{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+button{
+    border: none;
+    padding: 12px 12px;
+    border-radius: 8px;
+    background-color: #ffadad;
+    font-size: large;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-left: 38rem;
+}
